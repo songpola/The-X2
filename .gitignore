@@ -1,2 +1,13 @@
+/.mixin.out
+/crash-reports
+/logs
+/saves
+/screenshots
 /.curseclient
-/minecraftinstance.json
+/*.dll
+/*.txt
+/*.json
+
+/journeymap/*
+!/journeymap/config
+!/journeymap/server
