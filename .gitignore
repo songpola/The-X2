@@ -1,9 +1,11 @@
 /.mixin.out
 /crash-reports
+/llibrary
 /logs
 /saves
 /screenshots
 /.curseclient
+/.ReAuth.cfg
 /*.dll
 /*.txt
 /*.json

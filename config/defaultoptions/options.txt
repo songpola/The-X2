@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Faithful 32x - 1.12.2.zip"]
+resourcePacks:["AnimEmis_InF_SW.zip","Faithful 32x - 1.12.2.zip","Faithful 1.12.2 Shader Support BETA.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -62,6 +62,8 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+soundCategory_ds_footsteps:1.0
+soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
